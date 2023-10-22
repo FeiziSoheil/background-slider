@@ -1,3 +1,4 @@
 - [Demo Version](https://feizisoheil.github.io/background-slider/)
 - Developed by Soheil Feizi
 - Created 2023
+- `Notice:` This project is not entirely responsive
